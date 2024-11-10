@@ -4,16 +4,8 @@ city: New York
 is_student: true
 grade:
 - subject: Math
-<<<<<<< HEAD
 grade: D
 - subject: English
 grade: D
 - subject: Science
 grade: D+
-=======
-grade: C
-- subject: English
-grade: C
-- subject: Science
-grade: C+
->>>>>>> d72f94a035d12479af7ebfe716b5bfdc47135319
